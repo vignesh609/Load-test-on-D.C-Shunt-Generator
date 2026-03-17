@@ -1,5 +1,9 @@
 # Load-test-on-D.C-Shunt-Generator
 
+Name: Vignesh P
+
+Reg no: 212222210027
+
 Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
 Apparatus Required:
