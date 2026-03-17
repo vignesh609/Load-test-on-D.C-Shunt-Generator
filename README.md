@@ -45,3 +45,5 @@ Model graph:
 <img width="399" height="182" alt="image" src="https://github.com/user-attachments/assets/05d45b14-c35d-4f16-a08a-58b263da9b84" />
 
 Result:
+![BEEE EXP 4](https://github.com/user-attachments/assets/5a7c408a-1d4b-49c8-982f-a0450e4d9b75)
+
